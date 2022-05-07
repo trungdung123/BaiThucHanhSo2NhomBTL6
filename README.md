@@ -2,9 +2,9 @@
 Bài thực hành số 2 môn lậo trình web thầy Đức nhóm BTL 6
 
 1. Các thành viên trong nhóm :
-  Phạm Trung Dũng - B19DCCN130
-  Nguyễn Thanh Lan - B19DCCN366
-  Nguyễn Thị Linh - B19DCCN377
+  + Phạm Trung Dũng - B19DCCN130
+  + Nguyễn Thanh Lan - B19DCCN366
+  + Nguyễn Thị Linh - B19DCCN377
   
 2. Quá trình hoàn thiện bài thực hành :
   
